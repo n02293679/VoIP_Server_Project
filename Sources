@@ -1,8 +1,0 @@
-http://blog.mivia.dk/2013/03/mumble-voip-server-on-a-raspberry-pi/ - Step by step explanation of how to download a Mumble 
-                                                                     server onto the pi.
-http://raspi.tv/2012/how-to-create-a-new-user-on-raspberry-pi - Explains how to create a new user on the pi and erase the
-                                                                default.
-http://sourceforge.net/projects/elastix/files/Elastix%20PBX%20Appliance%20Software/2.4.0/elastix-arm-2013-07-04.tar/download
-- Download for the version of Elastix I downloaded
-
-http://www.raspberry-asterisk.org/downloads/- Latest version of PBX
